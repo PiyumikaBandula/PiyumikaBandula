@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi 👋 I'm Piyumika
 
+## 🌱 About Me:
+I am a post-graduate computer engineering student at Lambton College Mississauga, passionate about full stack software development, DevOps practises and Cloud.
 <!--
 **PiyumikaBandula/PiyumikaBandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
