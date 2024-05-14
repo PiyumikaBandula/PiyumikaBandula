@@ -2,6 +2,13 @@
 
 ## 🌱 About Me:
 I am a post-graduate computer engineering student at Lambton College Mississauga, passionate about full stack software development, DevOps practises and Cloud.
+
+## 👯 Connect With Me:
+<a href="https://www.linkedin.com/in/piyumika-samarasuriyage/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="30">
+</a>
+
+
 <!--
 **PiyumikaBandula/PiyumikaBandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
