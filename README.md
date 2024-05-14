@@ -56,7 +56,7 @@ I am a post-graduate computer engineering student at Lambton College Mississauga
   </div>
 </div>
 
-### Libraries/Frameworks:
+### Cloud:
 <div style="display: flex; gap: 10px;">
   <div style="background-color: #f1f1f1; padding: 5px; border-radius: 5px;">
     <img src="https://img.shields.io/badge/AWS-yellow" alt="AWS" style="vertical-align: middle; margin-right: 5px;"> 
