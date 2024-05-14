@@ -8,7 +8,7 @@ I am a post-graduate computer engineering student at Lambton College Mississauga
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="30">
 </a>
 
-## 👯 Tech Stack:
+## 🖥️ Tech Stack:
 Languages
 ![Python](https://img.shields.io/badge/Python-blue) 
 ![Java](https://img.shields.io/badge/Java-red) 
