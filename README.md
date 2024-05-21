@@ -13,6 +13,7 @@ Languages
 ![Python](https://img.shields.io/badge/Python-blue) 
 ![Java](https://img.shields.io/badge/Java-red) 
 ![C%23](https://img.shields.io/badge/C%23-green) 
+![LUA](https://img.shields.io/badge/Lua-purple) 
 ![HTML](https://img.shields.io/badge/HTML-orange) 
 ![CSS](https://img.shields.io/badge/CSS-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
