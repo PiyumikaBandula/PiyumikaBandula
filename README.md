@@ -30,7 +30,7 @@ Frontend Frameworks/Libraries
 Tools
 ![Postman](https://img.shields.io/badge/Postman-orange) 
 ![Git](https://img.shields.io/badge/Git-black) 
-![GitHub](https://img.shields.io/badge/Git-yellow) 
+![GitHub](https://img.shields.io/badge/GitHub-yellow) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-blue)
 ![Docker](https://img.shields.io/badge/Docker-purple) 
 
