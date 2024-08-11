@@ -21,6 +21,7 @@ Languages
 Databases
 ![Oracle](https://img.shields.io/badge/Oracle-orange) 
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-purple)
 
 Frontend Frameworks/Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple) 
