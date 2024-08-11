@@ -1,7 +1,7 @@
 # Hi 👋 I'm Piyumika
 
 ## 🌱 About Me:
-I am a post-graduate computer engineering student at Lambton College Mississauga, passionate about full stack software development, DevOps practises and Cloud.
+I am a post-graduate computer engineering student at Lambton College Mississauga, passionate about information security, software development, DevOps practises and Cloud.
 
 ## 👯 Connect With Me:
 <a href="https://www.linkedin.com/in/piyumika-samarasuriyage/">
