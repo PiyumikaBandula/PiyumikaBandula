@@ -20,7 +20,7 @@ Languages
 
 Databases
 ![Oracle](https://img.shields.io/badge/Oracle-orange) 
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![MySQL](https://img.shields.io/badge/SQL-lightgrey)
 
 Frontend Frameworks/Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple) 
@@ -29,11 +29,13 @@ Frontend Frameworks/Libraries
 Tools
 ![Postman](https://img.shields.io/badge/Postman-orange) 
 ![Git](https://img.shields.io/badge/Git-black) 
+![GitHub](https://img.shields.io/badge/Git-yellow) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-blue)
+![Docker](https://img.shields.io/badge/Docker-purple) 
 
 Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-yellow)
-
+![Azure](https://img.shields.io/badge/Azure-blue)
 
 
 
