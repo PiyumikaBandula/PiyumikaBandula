@@ -20,7 +20,7 @@ Languages
 
 Databases
 ![Oracle](https://img.shields.io/badge/Oracle-orange) 
-![MySQL](https://img.shields.io/badge/SQL-lightgrey)
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
 
 Frontend Frameworks/Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple) 
