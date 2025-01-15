@@ -11,7 +11,6 @@ I am a post-graduate computer engineering student at Lambton College Mississauga
 ## 🖥️ Tech Stack:
 Languages
 ![Python](https://img.shields.io/badge/Python-blue) 
-![Java](https://img.shields.io/badge/Java-red) 
 ![C%23](https://img.shields.io/badge/C%23-green) 
 ![LUA](https://img.shields.io/badge/Lua-purple) 
 ![HTML](https://img.shields.io/badge/HTML-orange) 
@@ -20,7 +19,7 @@ Languages
 
 Databases
 ![Oracle](https://img.shields.io/badge/Oracle-orange) 
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
+![SQL Server](https://img.shields.io/badge/SQLServer-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-purple)
 
 Frontend Frameworks/Libraries
@@ -32,7 +31,6 @@ Tools
 ![Git](https://img.shields.io/badge/Git-black) 
 ![GitHub](https://img.shields.io/badge/GitHub-yellow) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-blue)
-![Docker](https://img.shields.io/badge/Docker-purple) 
 
 Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-yellow)
